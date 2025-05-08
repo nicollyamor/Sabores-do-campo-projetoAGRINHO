@@ -29,8 +29,8 @@ main {
 }
 
 .receita {
-  background-color: #d84315;
-  border: 1px solid #d84315;
+  background-color: ##FFFACD;
+  border: 1px solid ##FFFACD;
   border-radius: 10px;
   margin-bottom: 30px;
   padding: 20px;
@@ -43,11 +43,11 @@ main {
 }
 
 h2 {
-  color: #d84315;
+  color: ##FFFACD;
 }
 
 footer {
-  background-color: #F8F8FF;
+  background-color: ##FFFACD;
   text-align: center;
   padding: 10px;
   font-size: 14px;
