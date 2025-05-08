@@ -7,6 +7,13 @@ body {
 }
 
 header {
+  background-image: url('https://i.imgur.com/NClx4Mz.jpg'); /* exemplo */
+  background-size: cover;
+  background-position: center;
+  padding: 60px;
+  color: white;
+  text-align: center;
+}
   background-color: #2E8B57;
   padding: 20px;
   text-align: center;
