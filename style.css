@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #ffcc80;
+  background-color: #2E8B57;
   padding: 20px;
   text-align: center;
 }
@@ -30,8 +30,8 @@ main {
 }
 
 .receita {
-  background-color: ##FFFACD;
-  border: 1px solid ##FFFACD;
+  background-color: #ffcc80;
+  border: 1px solid #ffcc80;
   border-radius: 10px;
   margin-bottom: 30px;
   padding: 20px;
@@ -44,7 +44,7 @@ main {
 }
 
 h2 {
-  color: ##FFFACD;
+  color: ##ffcc80;
 }
 
 footer {
